@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://safelocker.sucesso.net.br/sitemap.xml
+
+# Block common spam bots
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+Disallow: /
