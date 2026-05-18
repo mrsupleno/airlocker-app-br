@@ -801,6 +801,17 @@
                 grid-template-columns: 1fr;
             }
         }
+
+        body.landing-page header .container {
+            justify-content: center;
+        }
+
+        body.landing-page header nav,
+        body.landing-page .mobile-menu-btn,
+        body.landing-page .mobile-overlay,
+        body.landing-page .mobile-nav {
+            display: none !important;
+        }
     </style>
 
     <!-- Google Tag Manager -->
@@ -877,7 +888,7 @@
 }
     </script>
 </head>
-<body>
+<body class="landing-page">
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRJGQMRW"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
