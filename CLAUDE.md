@@ -7,5 +7,7 @@
 - Regiões iniciais: Espírito Santo, Belo Horizonte/MG e Mato Grosso do Sul.
 - Blog: pasta `blog/<slug>/index.html` + `sitemap.xml` + índice `blog/index.html`.
 - Atendimento: ES/BH em `(27) 3190-1960`; MS em `(67) 4042-7170`.
+- Email institucional obrigatório no rodapé e no Schema: `contato@safelocker.com.br`.
+- Rodapé canônico obrigatório: `Blog AirLocker - SafeLocker` e `© 2026 AirLocker - SafeLocker - Todos os direitos reservados`.
 - SafeLocker permanece somente em razão social/CNPJ quando juridicamente necessário.
 - Instruções completas: `/root/link-flow/CLAUDE.md`.
